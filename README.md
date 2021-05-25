@@ -1,5 +1,5 @@
 # geb-maintenance-scripts
 
-## scripts
+## Available Scripts
 
 - Contract authorization checker
